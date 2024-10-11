@@ -1,6 +1,6 @@
-#*Hi,👋*
+*Hi,👋*
 -
-###I AM IKECHUKWU UCHECHUKWU, **a Data Analyst.**
+I AM IKECHUKWU UCHECHUKWU, **a Data Analyst.**
 -
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
