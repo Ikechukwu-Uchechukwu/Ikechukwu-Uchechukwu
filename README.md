@@ -4,14 +4,12 @@
 -
 #### You're welcome to my GitHub profile! As a data analyst, I am passionate about extracting insights from data and transforming complex information into clear, actionable insights. With a strong foundation in statistics, data visualization, and data storytelling, I enjoy applying data to inform business choices and find solutions to real-world issues.
 -
+- 👀 Interested in: Remote jobs as a Data Analyst.
 - 💞️ I’m looking to collaborate with organizations (companies and institutions) in resolving live issues by applying data analytic techniques.
 - 
-- 👀 Interested in: Remote jobs as a Data Analyst.
-- 
 -💻 Currently working on: Data cleaning and visualization projects using Python, SQL, Power BI and Tableau.
-
 -   
-- 🌱 I’m currently learning ...
+- 🌱 Learning: Enhancing my Data Analytics and Science skills.
 - 
 - 📫 You can reach me on ikechukwuluchechukwu@outlook.com
 -
