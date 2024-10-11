@@ -10,7 +10,7 @@
 - Languages: Python and SQL.
 - Data Visualization: Tableau and Power BI.
 
--🌱 Learning: Enhancing my Data Analytics and Science Skills.
+-🌱 Learning: Enhancing my Data Analytics and Science Skills with help from Dahel Techies.
 - 💻 Currently working on: Data cleaning and visualization projects using Python, SQL, Power BI and Tableau.
 
 -📫 You can reach me on ikechukwuluchechukwu@outlook.com
