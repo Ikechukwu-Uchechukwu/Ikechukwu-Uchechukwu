@@ -6,12 +6,13 @@
 -
 - 💞️ I’m looking to collaborate with organizations (companies and institutions) in resolving live issues by applying data analytic techniques.
 - 
+- 👀 Interested in: Remote jobs as a Data Analyst.
 - 
--💻 Currently working on: Data cleaning and visualization projects using Python, SQL, and Tableau.
+-💻 Currently working on: Data cleaning and visualization projects using Python, SQL, Power BI and Tableau.
 
-- 👀 I’m interested in improving my Data Analytics,  
+-   
 - 🌱 I’m currently learning ...
--  ...
+- 
 - 📫 You can reach me on ikechukwuluchechukwu@outlook.com
 -
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/ikechukwu-uchechukwu-420510332/)
