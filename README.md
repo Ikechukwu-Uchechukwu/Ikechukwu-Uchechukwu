@@ -7,6 +7,6 @@ I am IKECHUKWU UCHECHUKWU, **a Data Analyst.**
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on ikechukwuluchechukwu@outlook.com
 -
-- Connect with me on [LinkedIn](www.linkedin.com/in/ikechukwu-uchechukwu-420510332)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/ikechukwu-uchechukwu-420510332/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
